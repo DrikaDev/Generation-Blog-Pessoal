@@ -42,6 +42,10 @@ public class Postagem {
 	private Tema tema;
 	//daí chamar o get e set de tema!
 	
+	@ManyToOne
+	@JsonIgnoreProperties("postagem")
+	private Usuario usuario;
+	//daí chamar o get e set de usuario!
 	
 	//getters & setters
 
@@ -83,6 +87,14 @@ public class Postagem {
 
 	public void setData(LocalDateTime data) {
 		this.data = data;
+	}
+
+	public Usuario getUsuario() {
+		return usuario;
+	}
+
+	public void setUsuario(Usuario usuario) {
+		this.usuario = usuario;
 	}
 	
 }

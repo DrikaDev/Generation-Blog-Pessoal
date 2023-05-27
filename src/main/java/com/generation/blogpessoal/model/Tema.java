@@ -35,7 +35,6 @@ public class Tema {
 	private List <Postagem> postagem;
 	//daí chamar o get e set de postagem!
 	
-	
 	//getters e setters:
 
 	public Long getId() {
