@@ -1,6 +1,5 @@
 package com.generation.blogpessoal.model;
 
-
 public class UsuarioLogin {
 	
 	private Long id;

@@ -70,7 +70,6 @@ public class UsuarioService {
 				usuarioLogin.get().setSenha("");
 
 				return usuarioLogin;
-
 			}
 		}
 		return Optional.empty();
