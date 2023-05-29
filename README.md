@@ -1,4 +1,6 @@
 # Generation-Blog-Pessoal
+![image](https://github.com/DrikaDev/Generation-Blog-Pessoal/assets/102387476/ac691388-dc5c-49c0-9571-5c650d866637)
+
 # Projeto Blog Pessoal é um projeto guiado com as seguintes características:
 
 👉🏻 1º parte do Projeto:
