@@ -48,3 +48,13 @@ Inserção das Dependências necessárias para a Spring Security:
 4) Criação da Camada Security com as Classes necessárias para a Spring Security. 
 5) Criação da Camada Service com as Classe de Serviço necessária para a Spring Security.  
 6) Na Camada Controller, criação da segunda Classe Controller e criação dos Métodos do CRUD.
+
+👉🏻 5º parte do Projeto:\
+Implementação dos testes utilizando o JUnit no back-end no Recurso Usuario.
+
+1) Atualização da dependência spring-test no arquivo pom.xml para não utilizar as versões antigas do JUnit.
+2) Criação da source folder resources em src/test.
+3) Criação do arquivo application.properties em src/test/resources.
+4) Configuração do banco de dados de teste no arquivo acima.
+5) Criação do teste para a classe Controller Usuario.
+6) Execute todos os testes no JUnit.
