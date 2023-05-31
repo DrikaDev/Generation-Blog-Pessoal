@@ -3,7 +3,7 @@
 
 # Projeto Blog Pessoal é um projeto guiado com as seguintes características:
 
-👉🏻 1º parte do Projeto:
+👉🏻 1º parte do Projeto:\
 Criação do banco de dados da aplicação: db_blogpessoal.
 
 1) Na Camada Model, criação da Classe Postagem com os seus respectivos atributos.
