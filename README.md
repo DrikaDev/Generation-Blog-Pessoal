@@ -4,12 +4,13 @@
 # Projeto Blog Pessoal é um projeto guiado com as seguintes características:
 
 👉🏻 1º parte do Projeto:
-1) Criação do banco de dados da aplicação: db_blogpessoal.
-2) Na Camada Model, criação da Classe Postagem com os seus respectivos atributos.
-3) Na Classe Postagem, criação da Tabela tb_postagens no Banco de dados db_blogpessoal.
-4) Na Camada Repository, criação da Interface PostagemRepository (com a capacidade de se comunicar com o banco de dados MySQL).
-5) Na Camada de Controller, criação da Classe PostagemController. 
-6) Na Camada Controller, criação de um endpoint: getAll() com a capacidade de listar todas as Postagens.
+Criação do banco de dados da aplicação: db_blogpessoal.
+
+1) Na Camada Model, criação da Classe Postagem com os seus respectivos atributos.
+2) Na Classe Postagem, criação da Tabela tb_postagens no Banco de dados db_blogpessoal.
+3) Na Camada Repository, criação da Interface PostagemRepository (com a capacidade de se comunicar com o banco de dados MySQL).
+4) Na Camada de Controller, criação da Classe PostagemController. 
+5) Na Camada Controller, criação de um endpoint: getAll() com a capacidade de listar todas as Postagens.
 
 👉🏻 2º parte do Projeto:\
 Adicionado as seguintes características:
