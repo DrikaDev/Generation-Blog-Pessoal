@@ -14,7 +14,7 @@ Criação do banco de dados da aplicação: db_blogpessoal.
 
 👉🏻 2º parte do Projeto:\
 Adicionado as seguintes características:
-1) Na Interface PostagemRepository adiciodo o Método de busca específica:
+1) Na Interface PostagemRepository adicionado o Método de busca específica:
 - findAllByTituloContainingIgnoreCase() com a função de trazer todas as Postagens cujo título possua a palavra pesquisada.
 2) Na Classe PostagemController adicionado os seguintes Métodos:
 - getById() com a função de trazer uma única Postagem identificada pelo id.
