@@ -61,10 +61,10 @@ Implementação dos testes utilizando o JUnit no back-end no Recurso Usuario.
 6) Execute todos os testes no JUnit.
 
 👉🏻 6º parte do Projeto:\
-Implementação do Swagger e efetuar o Deploy na nuvem do Backend:
+Implementação do Swagger e efetuado o Deploy na nuvem do Backend:
 
-1) Criação da Documentação da API com o Spring Docs;
-2) Testar toda a API com o Insomnia;
-3) Preparar a API para o Deploy;
-4) Enviar as atualizações do projeto para o repositório remoto;
-5) Efetuar o Deploy no Render
+1) Criação da Documentação da API com o Spring Docs.
+2) Testar toda a API com o Insomnia.
+3) Preparar a API para o Deploy.
+4) Enviar as atualizações do projeto para o repositório remoto.
+5) Efetuar o Deploy no Render.
